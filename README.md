@@ -1,3 +1,5 @@
 # **Python-UPES**
  
-In this repository. I am adding Python lab work of UPES
+In this repository. I am adding Python lab work of UPES. It is being covered from the basics, hopefully it will help the beginners.
+
+#
