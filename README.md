@@ -16,3 +16,10 @@ Arjun 70 98 63 <br>
 Malika 52 56 60 <br>
 Sample Output <br>
 56.00 <br>
+
+Q2. WAP to input a list of scores for N students in a list data type. Find the score of the runner-up and print the output.<br>
+Sample Input <br>
+N = 5 <br>
+Scores= 2 3 6 6 5 <br>
+Sample output <br>
+5 <br>
