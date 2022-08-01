@@ -31,6 +31,7 @@ Q3. Rupal has a huge collection of country stamps. She decided to count the tota
 
 ## **2. Strings**
 
+
 Q1.  WAP to enter a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.<br>
 Sample Input<br>
 ABCDCDC<br>
@@ -45,4 +46,14 @@ Sample Input <br>
 Mohandas KaramChand Gandhi <br>
 Sample Output <br>
 M.K. Gandhi <br>
+
+
+Q3. Given a string containing both upper and lower case alphabets. Write a Python program to count the number of occurrences of each alphabet (case insensitive) and display the same. <br>
+Sample Input <br>
+ABaBCbGc <br>
+Sample Output <br>
+2A <br>
+3B <br>
+2C <br>
+1G <br>
 
