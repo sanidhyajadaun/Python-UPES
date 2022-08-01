@@ -30,3 +30,11 @@ Q3. Rupal has a huge collection of country stamps. She decided to count the tota
 #
 
 ## **2. Strings**
+
+Q1.  WAP to enter a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.
+Sample Input
+ABCDCDC
+CDC
+Sample Output
+2
+
