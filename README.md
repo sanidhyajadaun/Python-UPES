@@ -31,10 +31,18 @@ Q3. Rupal has a huge collection of country stamps. She decided to count the tota
 
 ## **2. Strings**
 
-Q1.  WAP to enter a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.
-Sample Input
-ABCDCDC
-CDC
-Sample Output
-2
+Q1.  WAP to enter a string and a substring. You have to print the number of times that the substring occurs in the given string. String traversal will take place from left to right, not from right to left.<br>
+Sample Input<br>
+ABCDCDC<br>
+CDC<br>
+Sample Output<br>
+2<br>
+
+
+Q2. WAP to input the first name, middle and last name of a person. Your task is to print the initials of the first and middle name separated by a dot (.) <br>
+The last name should be followed by a dot and a space where the first letter is capital. <br>
+Sample Input <br>
+Mohandas KaramChand Gandhi <br>
+Sample Output <br>
+M.K. Gandhi <br>
 
