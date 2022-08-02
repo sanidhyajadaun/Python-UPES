@@ -55,5 +55,5 @@ Sample Output <br>
 2A <br>
 3B <br>
 2C <br>
-1G <br>
+1G 
 
