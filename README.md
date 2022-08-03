@@ -64,3 +64,34 @@ Sample Output <br>
 Q1. Using functions, re-write and execute Python program to: <br>
 1. Add natural numbers up to n where n is taken as an input from user.<br>
 2. Print Fibonacci series till nth term (Take input from user).<br>
+
+
+Q2. At an airport, a traveler is allowed entry into the ﬂight only if he clears the following checks:<br>
+1. Baggage Check <br>
+2. Immigration Check<br>
+3. Security Check <br>
+The logic for the check methods are given below:<br>
+check_baggage (baggage_weight)<br>
+•	returns True if baggage_weight is greater than or equal to 0 and less than or equal to 40. Otherwise returns False. <br>
+check_immigration (expiry_year) <br>
+•	returns True if expiry_year is greater than or equal to 2030 and less than or equal to 2050. Otherwise returns False. <br>
+check_security(noc_status) <br>
+•	returns True if noc_status is 'valid' or 'VALID', for all other values return False.
+traveler() <br>
+•	Initialize the traveler Id and traveler name and invoke the functions check_baggage(), check_immigration() and check_security() by passing required arguments. <br>
+Refer the table below for values of arguments. <br>
+
+Variable        ||          Value   <br>
+traveler ID                 1001    <br>
+traveler name               Jim     <br>
+baggage weight              39      <br>
+expiry year                 2019    <br>
+noc_status                  VALID   <br>
+
+•	If all values of check_baggage(), check_immigration() and check_security() are true, 
+-	display traveler_id and traveler_name
+-	display "Allow Traveler to ﬂy!"
+Otherwise,
+-	display traveler_id and traveler_name
+-	display "Detain Traveler for Re-checking!
+Invoke the traveler() function. Modify the values of diﬀerent variables in traveler() function and observe the output.
