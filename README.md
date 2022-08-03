@@ -57,3 +57,6 @@ Sample Output <br>
 2C <br>
 1G 
 
+#
+
+## **3. Functions**
