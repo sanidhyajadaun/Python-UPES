@@ -60,3 +60,7 @@ Sample Output <br>
 #
 
 ## **3. Functions**
+
+Q1. Using functions, re-write and execute Python program to: <br>
+1. Add natural numbers up to n where n is taken as an input from user.<br>
+2. Print Fibonacci series till nth term (Take input from user).<br>
