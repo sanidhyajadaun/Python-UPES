@@ -95,3 +95,11 @@ Otherwise,
 -	display traveler_id and traveler_name
 -	display "Detain Traveler for Re-checking!
 Invoke the traveler() function. Modify the values of diﬀerent variables in traveler() function and observe the output.
+
+
+Q3. Write a Python program to find the maximum and minimum values in a given list of tuples using lambda function.<br>
+Original list with tuples: <br>
+[('V', 62), ('VI', 68), ('VII', 72), ('VIII', 70), ('IX', 74), ('X', 65)]   <br>
+Output- <br>
+Maximum and minimum values of the said list of tuples: <br>
+(74, 62) <br>
