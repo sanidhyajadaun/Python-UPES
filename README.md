@@ -129,3 +129,15 @@ Jingle bells jingle bells <br>
 Jingle all the way <br>
 
 Write a Python program to count the words in the ﬁle using a dictionary (use space as a delimiter). Find unique words and the count of their occurrences (ignoring case). Write the output in another ﬁle "words.txt" at the same location.
+
+Q3. Assume a file city.txt with details of 5 cities in given format (city name population(in lakhs) area(in sq KM) ): <br>
+Example: <br>
+Dehradun 5.78 308.20 <br>
+Delhi 190 1484 <br>
+…………… <br>
+Open file city.txt and read to: <br>
+a.	Display details of all cities  <br>
+b.	Display city names with population more than 10Lakhs<br> 
+c.	Display sum of areas of all cities <br>
+
+# 
