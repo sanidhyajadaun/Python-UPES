@@ -107,3 +107,14 @@ Maximum and minimum values of the said list of tuples: <br>
 #
 
 ## **4. Files**
+
+Q1. Write a Python program to: <br>
+1. read a ﬁle.      <br>
+2. add backslash (\) before every double quote in the ﬁle contents. <br>
+3. write it to another ﬁle in the same folder. <br>
+4. print the contents of both the ﬁles. <br>
+For example: <br>
+If the ﬁrst ﬁle is 'TestFile1.txt' with text as: <br>
+Jack said, "Hello Pune". <br>
+The output of the ﬁle 'TestFile2.txt' should be:<br>
+Jack said,\"Hello Pune\".<br>
