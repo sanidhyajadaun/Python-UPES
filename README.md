@@ -165,6 +165,18 @@ for i in mylist :<br>
 print(sum)<br>
 print(mylist[5])<br>
 
+Q3. You have already created a Python program to implement the following in ﬁle handling section: 
+1. Read a ﬁle.<br>
+2. Add backslash (\) before every double quote in the ﬁle contents. <br>
+3. Write it to another ﬁle in the same folder. <br>
+4. Print the contents of both the ﬁles. <br>
+For example: <br>
+If the ﬁrst ﬁle is 'TestFile1.txt' with text as:<br>
+Jack said, "Hello Pune". <br>
+The output of the ﬁle 'TestFile2.txt' should be:<br>
+Jack said,\"Hello Pune\". <br>
+Modify your code to implement Exception handling. Print appropriate error messages wherever applicable <br>
+
 
 
 #
