@@ -157,3 +157,14 @@ Error Code: invalid literal for int() with base 10: '$'<br>
 
 Q2. Assume the following Python code- <br>
 Rewrite the code to handle the exceptions raised. Print appropriate error messages wherever applicable <br>
+
+mylist = [1,2,3,"4",5] <br>
+sum = 0 <br>
+for i in mylist :<br>
+    sum = sum + i<br>
+print(sum)<br>
+print(mylist[5])<br>
+
+
+
+#
