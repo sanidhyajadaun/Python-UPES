@@ -141,3 +141,5 @@ b.	Display city names with population more than 10Lakhs<br>
 c.	Display sum of areas of all cities <br>
 
 # 
+
+## **5. Exceptional Handling**
