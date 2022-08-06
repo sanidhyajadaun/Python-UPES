@@ -143,3 +143,14 @@ c.	Display sum of areas of all cities <br>
 # 
 
 ## **5. Exceptional Handling**
+
+Q1. Input two values from user where the first line contains N, the number of test cases.<br>
+The next N lines contain the space separated values of a and b. Perform integer division and print a/b. Print the error code in the case of ZeroDivisionError or ValueError.<br>
+Sample input<br>
+1 0<br>
+2 $<br>
+3 1<br>
+Sample Output<br>
+Error Code: integer division or modulo by zero<br>
+Error Code: invalid literal for int() with base 10: '$'<br>
+3<br>
