@@ -154,3 +154,6 @@ Sample Output<br>
 Error Code: integer division or modulo by zero<br>
 Error Code: invalid literal for int() with base 10: '$'<br>
 3<br>
+
+Q2. Assume the following Python code- <br>
+Rewrite the code to handle the exceptions raised. Print appropriate error messages wherever applicable <br>
