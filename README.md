@@ -208,3 +208,11 @@ d)	Define a class attribute “color” with a default value white. I.e., Every 
 #
 
 ## **7. tkinter**
+
+Q1.
+a)	import Tkinter package and create a window and set its title <br>
+b)	Set the default window size using geometry function. <br>
+c)	Create a label with “Hello” text in it and set its position on the form. <br>
+d)	Add a button to the window with “CLICK ME” written on it. <br>
+e)	change the foreground and background color for the button created above. <br>
+f)	Create a function that will be executed when the button is clicked and print “Button was clicked” on clicking the button. <br>
