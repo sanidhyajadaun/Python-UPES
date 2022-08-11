@@ -222,3 +222,12 @@ a) Take user name as input using the Tkinter Entry class <br>
 b) Print the entered text (username) on clicking the button. <br>
 c) Create three RadioButtons as displayed below <br>
 d) Print the currently selected radio button or the radio button value <br>
+
+Q3. Write a program to accept following details from a student using GUI. <br>
+1. Name of the student (using Textbox) <br>
+2. Gender (Using radio button) <br>
+3. Qualification (Using List) <br>
+4. Marks of three subjects (using Textbox) <br>
+Compute the percentage of the student and display it in a textbox.
+
+#
