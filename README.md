@@ -209,10 +209,16 @@ d)	Define a class attribute “color” with a default value white. I.e., Every 
 
 ## **7. tkinter**
 
-Q1.
+Q1. <br>
 a)	import Tkinter package and create a window and set its title <br>
 b)	Set the default window size using geometry function. <br>
 c)	Create a label with “Hello” text in it and set its position on the form. <br>
 d)	Add a button to the window with “CLICK ME” written on it. <br>
 e)	change the foreground and background color for the button created above. <br>
 f)	Create a function that will be executed when the button is clicked and print “Button was clicked” on clicking the button. <br>
+
+Q2. This is the continuation of Question1, add the given below features in the above program: <br>
+a) Take user name as input using the Tkinter Entry class <br>
+b) Print the entered text (username) on clicking the button. <br>
+c) Create three RadioButtons as displayed below <br>
+d) Print the currently selected radio button or the radio button value <br>
