@@ -233,3 +233,17 @@ Compute the percentage of the student and display it in a textbox.
 #
 
 ## **8. Numpy**
+
+Q1.
+a.	Convert numbers = [1, 2.0, 3] to numpy array and convert all elements to string type. <br>
+b.	Create a 2 D array through list and set dtype as int32 <br>
+c.	Find the rows and columns of the 2d array created in part b <br> 
+d.	Print 10 random numbers between 1 and 100. <br>
+
+Q2. 
+a)	Write a NumPy program to  get help on the add function <br>
+b)	Write a NumPy program to test whether none of the elements of a given array is zero <br>
+c)	Write a NumPy program to test whether any of the elements of a given array is non-zero <br>
+d)	Write a NumPy program to generate an array of 15 random numbers from a standard normal distribution. <br>
+
+#
