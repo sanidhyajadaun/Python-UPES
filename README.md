@@ -231,3 +231,5 @@ Q3. Write a program to accept following details from a student using GUI. <br>
 Compute the percentage of the student and display it in a textbox.
 
 #
+
+## **8. Numpy**
