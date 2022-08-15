@@ -255,12 +255,12 @@ Q1. Refer the given excel file and perform various operations using pandas libra
 
 
 
-a.  Read the above excel file in python. 
-b.  How do I write this file to a new file “new.csv”? 
-c.  Include column names in this file. Use ‘ticker’, ‘eps’, ‘revenue’, ‘price’ ‘people’ as column names.
-d.  Convert all not available or n.a. values to NAN and also convert negative     revenues to NAN because revenues can never be negative. 
-e.  Fill NAN values using a suitable approach. 
-f.  Write a function to change n.a. value appearing in WMT to Sam Walton.
+a.  Read the above excel file in python. <br>
+b.  How do I write this file to a new file “new.csv”? <br> 
+c.  Include column names in this file. Use ‘ticker’, ‘eps’, ‘revenue’, ‘price’ ‘people’ as column names. <br>
+d.  Convert all not available or n.a. values to NAN and also convert negative revenues to NAN because revenues can never be negative. <br> 
+e.  Fill NAN values using a suitable approach. <br>
+f.  Write a function to change n.a. value appearing in WMT to Sam Walton. <br>
 
 
 #
