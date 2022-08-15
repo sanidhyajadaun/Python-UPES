@@ -247,3 +247,8 @@ c)	Write a NumPy program to test whether any of the elements of a given array is
 d)	Write a NumPy program to generate an array of 15 random numbers from a standard normal distribution. <br>
 
 #
+
+## **9. Pandas**
+
+List of Lab Activities: -
+Q1. Refer the given excel file and perform various operations using pandas library:
